@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Terra Média</title>
+      <link rel="stylesheet" type="text/css" href="estilo.css" >
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Germania+One|Source+Serif+Pro" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="normalise.css" >
+  </head>
+  
+  <body>
+    
+    <nav>
+      <a href="#">Mistérios da Terra Média</a>
+      <ul>
+       
+        <li><a href="biografia.html">BIOGRAFIA</a></li>
+        <li><a href="obras.html">OBRAS</a></li>
+        <li><a href="#IMAGENS">GALERIA</a></li>
+        <li><a href="#FILMES">FILMOGRAFIA</a></li>
+        <li><a href="index.html">INICIO</a></li>
+     
+      </ul>
+      
+    </nav>
+    
+    <header>
+     <h1 class="red">Mistérios da Terra Média</h1>
+      <h1>J. R. R. Tolkien</h1>
+      <p>John Ronald Reuel Tolkien, (3 janeiro 1892 – 2 de Setembro de 1973) foi um Inglês escritor, poeta, filólogo e professor universitário, mais conhecido como o autor do clássico das obras O Hobbit , O Senhor dos Anéis e O Silmarillion.</p>
+    <a href="#sobre" class="botao">VER MAIS</a>
+    </header>
+    <h1>Biografia:</h1>
+      </body>
+</html>
